@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v17_Beetroot
   m_EditorClassIdentifier: 
-  cardName: Beetroot
-  pairName: Beetroot_tx
+  cardName: beetroot
+  pairName: beetroot_tx
   cardImage: {fileID: 21300000, guid: 4b140f8df6dae0642b6affa55ffbb721, type: 3}

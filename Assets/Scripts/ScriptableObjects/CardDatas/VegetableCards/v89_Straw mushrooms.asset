@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v89_Straw mushrooms
   m_EditorClassIdentifier: 
-  cardName: Straw mushrooms
-  pairName: Straw mushrooms_tx
+  cardName: straw mushrooms
+  pairName: straw mushrooms_tx
   cardImage: {fileID: 21300000, guid: 804915341787b814ba78c4e9cc27e99b, type: 3}

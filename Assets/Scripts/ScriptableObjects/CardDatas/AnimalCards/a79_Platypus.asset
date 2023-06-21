@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a79_Platypus
   m_EditorClassIdentifier: 
-  cardName: Platypus
-  pairName: Platypus_tx
+  cardName: platypus
+  pairName: platypus_tx
   cardImage: {fileID: 21300000, guid: 072f196c83746514295c73628ca7ab67, type: 3}

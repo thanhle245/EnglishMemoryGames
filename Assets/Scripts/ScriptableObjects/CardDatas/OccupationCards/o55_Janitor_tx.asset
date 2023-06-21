@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o55_Janitor_tx
   m_EditorClassIdentifier: 
-  cardName: Janitor_tx
-  pairName: Janitor
+  cardName: janitor_tx
+  pairName: janitor
   cardImage: {fileID: 21300000, guid: 1687032ce41d8434d9e5e203137149d2, type: 3}

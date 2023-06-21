@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f17_Cassava root
   m_EditorClassIdentifier: 
-  cardName: Cassava root
-  pairName: Cassava root_tx
+  cardName: cassava root
+  pairName: cassava root_tx
   cardImage: {fileID: 21300000, guid: 7fab4c48a6ada524ba759b6c9d0ce43e, type: 3}

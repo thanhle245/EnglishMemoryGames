@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f76_Quince_tx
   m_EditorClassIdentifier: 
-  cardName: Quince_tx
-  pairName: Quince
+  cardName: quince_tx
+  pairName: quince
   cardImage: {fileID: 21300000, guid: 07bf05a4e84aff044909c6988a032bd2, type: 3}

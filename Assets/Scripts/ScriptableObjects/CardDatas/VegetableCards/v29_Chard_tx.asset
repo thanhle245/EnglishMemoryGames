@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v29_Chard_tx
   m_EditorClassIdentifier: 
-  cardName: Chard_tx
-  pairName: Chard
+  cardName: chard_tx
+  pairName: chard
   cardImage: {fileID: 21300000, guid: c55056b53f52b1d4e8577ddca3debc0f, type: 3}

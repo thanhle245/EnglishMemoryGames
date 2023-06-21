@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o32_Diver
   m_EditorClassIdentifier: 
-  cardName: Diver
-  pairName: Diver_tx
+  cardName: diver
+  pairName: diver_tx
   cardImage: {fileID: 21300000, guid: 21c63b58bf239a24f84028be6c347478, type: 3}

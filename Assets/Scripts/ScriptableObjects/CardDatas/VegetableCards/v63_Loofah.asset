@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v63_Loofah
   m_EditorClassIdentifier: 
-  cardName: Loofah
-  pairName: Loofah_tx
+  cardName: loofah
+  pairName: loofah_tx
   cardImage: {fileID: 21300000, guid: 49c43ad704a7c0c479f3dc8b549c72e3, type: 3}

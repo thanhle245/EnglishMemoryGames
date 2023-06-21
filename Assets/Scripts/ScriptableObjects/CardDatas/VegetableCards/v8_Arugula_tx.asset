@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v8_Arugula_tx
   m_EditorClassIdentifier: 
-  cardName: Arugula_tx
-  pairName: Arugula
+  cardName: arugula_tx
+  pairName: arugula
   cardImage: {fileID: 21300000, guid: 4ecf4574554a7bc46ba90cf7c5a70657, type: 3}

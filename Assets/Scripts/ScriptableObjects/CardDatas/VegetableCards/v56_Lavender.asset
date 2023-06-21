@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v56_Lavender
   m_EditorClassIdentifier: 
-  cardName: Lavender
-  pairName: Lavender_tx
+  cardName: lavender
+  pairName: lavender_tx
   cardImage: {fileID: 21300000, guid: f95ad41e69a548b40bf9807219620455, type: 3}

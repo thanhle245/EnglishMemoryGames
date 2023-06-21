@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a57_Jellyfish_tx
   m_EditorClassIdentifier: 
-  cardName: Jellyfish_tx
-  pairName: Jellyfish
+  cardName: jellyfish_tx
+  pairName: jellyfish
   cardImage: {fileID: 21300000, guid: 15ebd38ba13a22a48be5e94f4b309666, type: 3}

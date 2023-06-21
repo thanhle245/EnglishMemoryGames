@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v21_Brussels sprouts_tx
   m_EditorClassIdentifier: 
-  cardName: Brussels sprouts_tx
-  pairName: Brussels sprouts
+  cardName: brussels sprouts_tx
+  pairName: brussels sprouts
   cardImage: {fileID: 21300000, guid: 9dcfb97f17edaf34ea9aba85d4e00e51, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v85_Sorrel_tx
   m_EditorClassIdentifier: 
-  cardName: Sorrel_tx
-  pairName: Sorrel
+  cardName: sorrel_tx
+  pairName: sorrel
   cardImage: {fileID: 21300000, guid: 4ea5a4e862687904a80d18a985170f9f, type: 3}

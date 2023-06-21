@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v39_Enokitake
   m_EditorClassIdentifier: 
-  cardName: Enokitake
-  pairName: Enokitake_tx
+  cardName: enokitake
+  pairName: enokitake_tx
   cardImage: {fileID: 21300000, guid: cd3434ee0a912214da1878bc20dbf58a, type: 3}

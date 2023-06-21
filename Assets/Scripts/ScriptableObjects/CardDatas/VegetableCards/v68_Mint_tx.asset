@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v68_Mint_tx
   m_EditorClassIdentifier: 
-  cardName: Mint_tx
-  pairName: Mint
+  cardName: mint_tx
+  pairName: mint
   cardImage: {fileID: 21300000, guid: 040535ed7ad76d340bd9912ccb093ed2, type: 3}

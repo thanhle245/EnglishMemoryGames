@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o18_Botanist_tx
   m_EditorClassIdentifier: 
-  cardName: Botanist_tx
-  pairName: Botanist
+  cardName: botanist_tx
+  pairName: botanist
   cardImage: {fileID: 21300000, guid: 7160a235d052c604c8e4fcc10289829d, type: 3}

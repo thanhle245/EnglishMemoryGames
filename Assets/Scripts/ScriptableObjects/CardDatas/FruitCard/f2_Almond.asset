@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f2_Almond
   m_EditorClassIdentifier: 
-  cardName: Almond
-  pairName: Almond_tx
+  cardName: almond
+  pairName: almond_tx
   cardImage: {fileID: 21300000, guid: 8a825ad5204f29749a5bf407936778f4, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o35_Drummer_tx
   m_EditorClassIdentifier: 
-  cardName: Drummer_tx
-  pairName: Drummer
+  cardName: drummer_tx
+  pairName: drummer
   cardImage: {fileID: 21300000, guid: ca18e285a3bdb7341a422036c33ffb6a, type: 3}

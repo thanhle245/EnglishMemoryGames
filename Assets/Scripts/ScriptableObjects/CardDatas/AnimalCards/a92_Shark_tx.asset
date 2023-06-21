@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a92_Shark_tx
   m_EditorClassIdentifier: 
-  cardName: Shark_tx
-  pairName: Shark
+  cardName: shark_tx
+  pairName: shark
   cardImage: {fileID: 21300000, guid: d7721ad8f4488bd429261e3e92f68fd1, type: 3}

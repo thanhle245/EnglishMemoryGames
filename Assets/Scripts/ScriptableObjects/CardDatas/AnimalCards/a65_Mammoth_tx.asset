@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a65_Mammoth_tx
   m_EditorClassIdentifier: 
-  cardName: Mammoth_tx
-  pairName: Mammoth
+  cardName: mammoth_tx
+  pairName: mammoth
   cardImage: {fileID: 21300000, guid: c0c1a41d4db0bfc4f9a4a4f5d87434d8, type: 3}

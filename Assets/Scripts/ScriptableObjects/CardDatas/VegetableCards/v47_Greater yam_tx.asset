@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v47_Greater yam_tx
   m_EditorClassIdentifier: 
-  cardName: Greater yam_tx
-  pairName: Greater yam
+  cardName: greater yam_tx
+  pairName: greater yam
   cardImage: {fileID: 21300000, guid: b7233668dc1f63945b0ea7c4183742e2, type: 3}

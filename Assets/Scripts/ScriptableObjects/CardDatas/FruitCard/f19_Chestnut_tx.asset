@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f19_Chestnut_tx
   m_EditorClassIdentifier: 
-  cardName: Chestnut_tx
-  pairName: Chestnut
+  cardName: chestnut_tx
+  pairName: chestnut
   cardImage: {fileID: 21300000, guid: e0ce699d6d674b045ac3739f2a4f18c5, type: 3}

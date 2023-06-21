@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a38_Dragon Fly
   m_EditorClassIdentifier: 
-  cardName: Dragon Fly
-  pairName: Dragon Fly_tx
+  cardName: dragon Fly
+  pairName: dragon Fly_tx
   cardImage: {fileID: 21300000, guid: 22fe4c3ca82b02248b3d19280bff8417, type: 3}

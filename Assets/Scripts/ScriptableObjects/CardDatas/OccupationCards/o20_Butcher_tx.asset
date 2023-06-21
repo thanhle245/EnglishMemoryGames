@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o20_Butcher_tx
   m_EditorClassIdentifier: 
-  cardName: Butcher_tx
-  pairName: Butcher
+  cardName: butcher_tx
+  pairName: butcher
   cardImage: {fileID: 21300000, guid: 8bd9157cd2797074b8d4b5fd5bad9253, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f58_Mulberry_tx
   m_EditorClassIdentifier: 
-  cardName: Mulberry_tx
-  pairName: Mulberry
+  cardName: mulberry_tx
+  pairName: mulberry
   cardImage: {fileID: 21300000, guid: aa6a5830def5ac04b87689097ec13aa4, type: 3}

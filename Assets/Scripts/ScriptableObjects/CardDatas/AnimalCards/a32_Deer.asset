@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a32_Deer
   m_EditorClassIdentifier: 
-  cardName: Deer
-  pairName: Deer_tx
+  cardName: deer
+  pairName: deer_tx
   cardImage: {fileID: 21300000, guid: e1fe01b0fe0bf914095908797080f72c, type: 3}

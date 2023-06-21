@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o1_Accountant
   m_EditorClassIdentifier: 
-  cardName: Accountant
-  pairName: Accountant_tx
+  cardName: accountant
+  pairName: accountant_tx
   cardImage: {fileID: 21300000, guid: 5ad5e413728bdf34fa6499a2009fa985, type: 3}

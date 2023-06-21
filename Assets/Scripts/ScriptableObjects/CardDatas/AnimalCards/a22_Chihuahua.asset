@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a22_Chihuahua
   m_EditorClassIdentifier: 
-  cardName: Chihuahua
-  pairName: Chihuahua_tx
+  cardName: chihuahua
+  pairName: chihuahua_tx
   cardImage: {fileID: 21300000, guid: 5234d53c2d98f3c4da1220a2b6b357db, type: 3}

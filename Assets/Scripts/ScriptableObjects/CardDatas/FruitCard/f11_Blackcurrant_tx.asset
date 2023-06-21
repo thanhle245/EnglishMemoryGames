@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f11_Blackcurrant_tx
   m_EditorClassIdentifier: 
-  cardName: Blackcurrant_tx
-  pairName: Blackcurrant
+  cardName: blackcurrant_tx
+  pairName: blackcurrant
   cardImage: {fileID: 21300000, guid: 56c509005f0d9ba49b2d78557e377cab, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a96_Spider
   m_EditorClassIdentifier: 
-  cardName: Spider
-  pairName: Spider_tx
+  cardName: spider
+  pairName: spider_tx
   cardImage: {fileID: 21300000, guid: 0c017112cac482c49af2c14ac682733e, type: 3}

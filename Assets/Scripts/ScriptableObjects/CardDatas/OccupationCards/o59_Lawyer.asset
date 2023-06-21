@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o59_Lawyer
   m_EditorClassIdentifier: 
-  cardName: Lawyer
-  pairName: Lawyer_tx
+  cardName: lawyer
+  pairName: lawyer_tx
   cardImage: {fileID: 21300000, guid: ce2311f779249c5418031b95d19edab9, type: 3}

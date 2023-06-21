@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o90_Sea Captain_tx
   m_EditorClassIdentifier: 
-  cardName: Sea Captain_tx
-  pairName: Sea Captain
+  cardName: sea captain_tx
+  pairName: sea captain
   cardImage: {fileID: 21300000, guid: d0941f1bfd2e9ae499afd1e3b0cb7789, type: 3}

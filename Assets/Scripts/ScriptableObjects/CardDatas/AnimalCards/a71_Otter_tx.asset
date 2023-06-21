@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a71_Otter_tx
   m_EditorClassIdentifier: 
-  cardName: Otter_tx
-  pairName: Otter
+  cardName: otter_tx
+  pairName: otter
   cardImage: {fileID: 21300000, guid: 865340f1bccd9784abc65ed805e354f6, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v43_Gai choy
   m_EditorClassIdentifier: 
-  cardName: Gai choy
-  pairName: Gai choy_tx
+  cardName: gai choy
+  pairName: gai choy_tx
   cardImage: {fileID: 21300000, guid: b25d191f35ddd6c49bbe31aa2c45c658, type: 3}

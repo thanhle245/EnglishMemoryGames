@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f43_Huckleberry_tx
   m_EditorClassIdentifier: 
-  cardName: Huckleberry_tx
-  pairName: Huckleberry
+  cardName: huckleberry_tx
+  pairName: huckleberry
   cardImage: {fileID: 21300000, guid: d41aa0d421c2f1f48827e55174c5749c, type: 3}

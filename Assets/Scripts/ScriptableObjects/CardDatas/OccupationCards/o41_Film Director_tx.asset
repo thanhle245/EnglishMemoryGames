@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o41_Film Director_tx
   m_EditorClassIdentifier: 
-  cardName: Film Director_tx
-  pairName: Film Director
+  cardName: film Director_tx
+  pairName: film Director
   cardImage: {fileID: 21300000, guid: d8ff324bb3ce24441ba81e53ffce62bc, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o64_Mail Carrier
   m_EditorClassIdentifier: 
-  cardName: Mail Carrier
-  pairName: Mail Carrier_tx
+  cardName: mail carrier
+  pairName: mail carrier_tx
   cardImage: {fileID: 21300000, guid: 23e59711464981c44ac735fcbafd6cc3, type: 3}

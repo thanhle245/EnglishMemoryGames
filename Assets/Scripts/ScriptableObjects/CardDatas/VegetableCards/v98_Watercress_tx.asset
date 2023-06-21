@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v98_Watercress_tx
   m_EditorClassIdentifier: 
-  cardName: Watercress_tx
-  pairName: Watercress
+  cardName: watercress_tx
+  pairName: watercress
   cardImage: {fileID: 21300000, guid: 094f0b26263cff643a2c1377f58bc269, type: 3}

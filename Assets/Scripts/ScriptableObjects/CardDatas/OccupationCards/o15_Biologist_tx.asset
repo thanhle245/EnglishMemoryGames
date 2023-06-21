@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o15_Biologist_tx
   m_EditorClassIdentifier: 
-  cardName: Biologist_tx
-  pairName: Biologist
+  cardName: biologist_tx
+  pairName: biologist
   cardImage: {fileID: 21300000, guid: 71689cc9b81bb0041922657425f4223b, type: 3}

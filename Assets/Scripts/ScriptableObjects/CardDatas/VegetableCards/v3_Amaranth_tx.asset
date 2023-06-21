@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v3_Amaranth_tx
   m_EditorClassIdentifier: 
-  cardName: Amaranth_tx
-  pairName: Amaranth
+  cardName: amaranth_tx
+  pairName: amaranth
   cardImage: {fileID: 21300000, guid: a93749f9d899e9848a1d8b4f2d51aed5, type: 3}

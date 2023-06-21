@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a27_Crab
   m_EditorClassIdentifier: 
-  cardName: Crab
-  pairName: Crab_tx
+  cardName: crab
+  pairName: crab_tx
   cardImage: {fileID: 21300000, guid: 33864e19f92eb654d86879039dc3cc9d, type: 3}

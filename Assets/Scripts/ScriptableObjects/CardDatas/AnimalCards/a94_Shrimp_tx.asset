@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a94_Shrimp_tx
   m_EditorClassIdentifier: 
-  cardName: Shrimp_tx
-  pairName: Shrimp
+  cardName: shrimp_tx
+  pairName: shrimp
   cardImage: {fileID: 21300000, guid: 8ee47f674f82cd543acbc95e75d9bdb6, type: 3}

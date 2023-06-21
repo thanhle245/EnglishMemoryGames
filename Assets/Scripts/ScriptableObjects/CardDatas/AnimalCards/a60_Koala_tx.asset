@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a60_Koala_tx
   m_EditorClassIdentifier: 
-  cardName: Koala_tx
-  pairName: Koala
+  cardName: koala_tx
+  pairName: koala
   cardImage: {fileID: 21300000, guid: 52de18c82a69be141b37a1f72e61d019, type: 3}

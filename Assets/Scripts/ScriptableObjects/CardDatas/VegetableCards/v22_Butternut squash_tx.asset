@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v22_Butternut squash_tx
   m_EditorClassIdentifier: 
-  cardName: Butternut squash_tx
-  pairName: Butternut squash
+  cardName: butternut squash_tx
+  pairName: butternut squash
   cardImage: {fileID: 21300000, guid: afdee004f1cc6a44dbcefa1b0a8c12c9, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a78_Pigeon_tx
   m_EditorClassIdentifier: 
-  cardName: Pigeon_tx
-  pairName: Pigeon
+  cardName: pigeon_tx
+  pairName: pigeon
   cardImage: {fileID: 21300000, guid: ffaae651f3587dc4e9039e49b25c41bb, type: 3}

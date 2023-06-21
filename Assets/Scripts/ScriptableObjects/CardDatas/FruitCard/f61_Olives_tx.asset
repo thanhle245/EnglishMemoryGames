@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f61_Olives_tx
   m_EditorClassIdentifier: 
-  cardName: Olives_tx
-  pairName: Olives
+  cardName: olives_tx
+  pairName: olives
   cardImage: {fileID: 21300000, guid: d25cf1eee861a774a9241e755a8104b7, type: 3}

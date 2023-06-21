@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v30_Chayote_tx
   m_EditorClassIdentifier: 
-  cardName: Chayote_tx
-  pairName: Chayote
+  cardName: chayote_tx
+  pairName: chayote
   cardImage: {fileID: 21300000, guid: 8160558475873484abe162d6bfbafea9, type: 3}

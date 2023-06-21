@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o3_Actuary_tx
   m_EditorClassIdentifier: 
-  cardName: Actuary_tx
-  pairName: Actuary
+  cardName: actuary_tx
+  pairName: actuary
   cardImage: {fileID: 21300000, guid: ba1d0fdb3334ec0499ab68311b93fb0a, type: 3}

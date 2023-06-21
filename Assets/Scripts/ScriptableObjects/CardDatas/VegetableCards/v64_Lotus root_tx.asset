@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v64_Lotus root_tx
   m_EditorClassIdentifier: 
-  cardName: Lotus root_tx
-  pairName: Lotus root
+  cardName: lotus root_tx
+  pairName: lotus root
   cardImage: {fileID: 21300000, guid: d6015f86b25cd824f8a7a9cb70b7d89c, type: 3}

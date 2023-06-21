@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v82_Rutabaga_tx
   m_EditorClassIdentifier: 
-  cardName: Rutabaga_tx
-  pairName: Rutabaga
+  cardName: rutabaga_tx
+  pairName: rutabaga
   cardImage: {fileID: 21300000, guid: 3ab5968a0352ace4ba05bfbdc2b656ea, type: 3}

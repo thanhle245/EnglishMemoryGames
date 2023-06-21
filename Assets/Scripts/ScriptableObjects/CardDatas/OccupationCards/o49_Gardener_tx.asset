@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o49_Gardener_tx
   m_EditorClassIdentifier: 
-  cardName: Gardener_tx
-  pairName: Gardener
+  cardName: gardener_tx
+  pairName: gardener
   cardImage: {fileID: 21300000, guid: a8a35f0263cb65c48a439d2773a2d3b2, type: 3}

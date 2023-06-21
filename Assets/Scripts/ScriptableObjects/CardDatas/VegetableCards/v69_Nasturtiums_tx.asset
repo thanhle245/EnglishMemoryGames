@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v69_Nasturtiums_tx
   m_EditorClassIdentifier: 
-  cardName: Nasturtiums_tx
-  pairName: Nasturtiums
+  cardName: nasturtiums_tx
+  pairName: nasturtiums
   cardImage: {fileID: 21300000, guid: c05acf01553169b439e9f688abd13a12, type: 3}

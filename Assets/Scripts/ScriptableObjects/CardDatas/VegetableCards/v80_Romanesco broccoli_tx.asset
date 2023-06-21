@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v80_Romanesco broccoli_tx
   m_EditorClassIdentifier: 
-  cardName: Romanesco broccoli_tx
-  pairName: Romanesco broccoli
+  cardName: romanesco broccoli_tx
+  pairName: romanesco broccoli
   cardImage: {fileID: 21300000, guid: eda4168233dfb4a4aa1d07fea185eff0, type: 3}

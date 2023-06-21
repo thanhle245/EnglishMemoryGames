@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f71_Plum_tx
   m_EditorClassIdentifier: 
-  cardName: Plum_tx
-  pairName: Plum
+  cardName: plum_tx
+  pairName: plum
   cardImage: {fileID: 21300000, guid: 02ea71712e9192745b163f2ca6dd792a, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v18_Beets_tx
   m_EditorClassIdentifier: 
-  cardName: Beets_tx
-  pairName: Beets
+  cardName: beets_tx
+  pairName: beets
   cardImage: {fileID: 21300000, guid: f2f7dbfc1b020294dade2839e1639ce0, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o45_Fishmonger
   m_EditorClassIdentifier: 
-  cardName: Fishmonger
-  pairName: Fishmonger_tx
+  cardName: fishmonger
+  pairName: fishmonger_tx
   cardImage: {fileID: 21300000, guid: 8de932175a4346642af3f3739b5a267c, type: 3}

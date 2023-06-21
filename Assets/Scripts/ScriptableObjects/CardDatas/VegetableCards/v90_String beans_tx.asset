@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v90_String beans_tx
   m_EditorClassIdentifier: 
-  cardName: String beans_tx
-  pairName: String beans
+  cardName: string beans_tx
+  pairName: string beans
   cardImage: {fileID: 21300000, guid: d7983d86c36f70e47b3c3746b1846a41, type: 3}

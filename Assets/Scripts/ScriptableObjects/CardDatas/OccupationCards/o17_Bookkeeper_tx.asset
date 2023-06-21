@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o17_Bookkeeper_tx
   m_EditorClassIdentifier: 
-  cardName: Bookkeeper_tx
-  pairName: Bookkeeper
+  cardName: bookkeeper_tx
+  pairName: bookkeeper
   cardImage: {fileID: 21300000, guid: 3ccbd53deff620949b94a2aa61a971a3, type: 3}

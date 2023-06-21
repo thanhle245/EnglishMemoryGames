@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f12_Blood orange_tx
   m_EditorClassIdentifier: 
-  cardName: Blood orange_tx
-  pairName: Blood orange
+  cardName: blood orange_tx
+  pairName: blood orange
   cardImage: {fileID: 21300000, guid: b63826cadf6986743a54a4622cbed70f, type: 3}

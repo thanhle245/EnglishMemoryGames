@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a85_Rhinoceros
   m_EditorClassIdentifier: 
-  cardName: Rhinoceros
-  pairName: Rhinoceros_tx
+  cardName: rhinoceros
+  pairName: rhinoceros_tx
   cardImage: {fileID: 21300000, guid: 776ed347a1adfe94199e08aaaf960ffd, type: 3}

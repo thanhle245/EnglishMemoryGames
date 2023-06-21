@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a26_Cockroach
   m_EditorClassIdentifier: 
-  cardName: Cockroach
-  pairName: Cockroach_tx
+  cardName: cockroach
+  pairName: cockroach_tx
   cardImage: {fileID: 21300000, guid: 3d93ecad0f7715343aec70c09e379625, type: 3}

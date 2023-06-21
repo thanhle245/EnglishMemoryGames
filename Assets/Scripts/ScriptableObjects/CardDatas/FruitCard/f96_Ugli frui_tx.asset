@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f96_Ugli frui_tx
   m_EditorClassIdentifier: 
-  cardName: Ugli fruit_tx
-  pairName: Ugli fruit
+  cardName: ugli fruit_tx
+  pairName: ugli fruit
   cardImage: {fileID: 21300000, guid: c684dcbb893fe2347821265c91f56dfa, type: 3}

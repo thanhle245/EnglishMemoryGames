@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v51_Iceberg lettuce
   m_EditorClassIdentifier: 
-  cardName: Iceberg lettuce
-  pairName: Iceberg lettuce_tx
+  cardName: iceberg lettuce
+  pairName: iceberg lettuce_tx
   cardImage: {fileID: 21300000, guid: 4f03ddcac90c8fa4288f760e5488fa0e, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f97_Walnuts_tx
   m_EditorClassIdentifier: 
-  cardName: Walnuts_tx
-  pairName: Walnuts
+  cardName: walnuts_tx
+  pairName: walnuts
   cardImage: {fileID: 21300000, guid: 5d21f2d8efc9476479815c52a4d2a915, type: 3}

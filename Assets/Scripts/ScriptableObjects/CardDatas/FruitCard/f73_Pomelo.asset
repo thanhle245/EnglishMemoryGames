@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f73_Pomelo
   m_EditorClassIdentifier: 
-  cardName: Pomelo
-  pairName: Pomelo_tx
+  cardName: pomelo
+  pairName: pomelo_tx
   cardImage: {fileID: 21300000, guid: d3d6a1671a5d6e741add701f8d06d614, type: 3}

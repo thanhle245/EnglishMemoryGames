@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v52_Jicama_tx
   m_EditorClassIdentifier: 
-  cardName: Jicama_tx
-  pairName: Jicama
+  cardName: jicama_tx
+  pairName: jicama
   cardImage: {fileID: 21300000, guid: c53d71ccb051c9c49a2fde8345e53ddd, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f63_Papaya
   m_EditorClassIdentifier: 
-  cardName: Papaya
-  pairName: Papaya_tx
+  cardName: papaya
+  pairName: papaya_tx
   cardImage: {fileID: 21300000, guid: 8a639a89df963c64a8bef75dfe72a135, type: 3}

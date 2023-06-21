@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a69_Octopus_tx
   m_EditorClassIdentifier: 
-  cardName: Octopus_tx
-  pairName: Octopus
+  cardName: octopus_tx
+  pairName: octopus
   cardImage: {fileID: 21300000, guid: 6c95893dbc607c9438f7ccb3a28d461f, type: 3}

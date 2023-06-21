@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v2_Algae
   m_EditorClassIdentifier: 
-  cardName: Algae
-  pairName: Algae_tx
+  cardName: algae
+  pairName: algae_tx
   cardImage: {fileID: 21300000, guid: 5ad1a1829eec37a44961eafadacea8eb, type: 3}

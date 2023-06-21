@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f77_Radish_tx
   m_EditorClassIdentifier: 
-  cardName: Radish_tx
-  pairName: Radish
+  cardName: radish_tx
+  pairName: radish
   cardImage: {fileID: 21300000, guid: 662561a4369838648a80faaf2a6e37a2, type: 3}

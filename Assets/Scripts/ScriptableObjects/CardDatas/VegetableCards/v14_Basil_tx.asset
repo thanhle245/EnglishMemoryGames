@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v14_Basil_tx
   m_EditorClassIdentifier: 
-  cardName: Basil_tx
-  pairName: Basil
+  cardName: basil_tx
+  pairName: basil
   cardImage: {fileID: 21300000, guid: a292b260b21b9c140a4a256f287a067a, type: 3}

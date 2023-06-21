@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a44_Fox
   m_EditorClassIdentifier: 
-  cardName: Fox
-  pairName: Fox_tx
+  cardName: fox
+  pairName: fox_tx
   cardImage: {fileID: 21300000, guid: d5f78c5cd17c2184ab822b31cfa224dd, type: 3}

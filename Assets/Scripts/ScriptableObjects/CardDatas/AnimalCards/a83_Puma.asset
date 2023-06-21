@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a83_Puma
   m_EditorClassIdentifier: 
-  cardName: Puma
-  pairName: Puma_tx
+  cardName: puma
+  pairName: puma_tx
   cardImage: {fileID: 21300000, guid: a95454a264463fe41b089bf6b5b21640, type: 3}

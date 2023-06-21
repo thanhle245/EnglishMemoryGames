@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f88_Starfruit
   m_EditorClassIdentifier: 
-  cardName: Starfruit
-  pairName: Starfruit_tx
+  cardName: starfruit
+  pairName: starfruit_tx
   cardImage: {fileID: 21300000, guid: 207cda0f50a78fe49b81962d8a5b224d, type: 3}

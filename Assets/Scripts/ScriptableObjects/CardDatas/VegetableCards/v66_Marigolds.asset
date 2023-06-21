@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v66_Marigolds
   m_EditorClassIdentifier: 
-  cardName: Marigolds
-  pairName: Marigolds_tx
+  cardName: marigolds
+  pairName: marigolds_tx
   cardImage: {fileID: 21300000, guid: b81bc4682110547469513bf8b5888495, type: 3}

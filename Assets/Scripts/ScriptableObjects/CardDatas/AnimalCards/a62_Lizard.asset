@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a62_Lizard
   m_EditorClassIdentifier: 
-  cardName: Lizard
-  pairName: Lizard_tx
+  cardName: lizard
+  pairName: lizard_tx
   cardImage: {fileID: 21300000, guid: 12f29d6abcfe85e4facff127427d48ed, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v41_Fatty mushrooms_tx
   m_EditorClassIdentifier: 
-  cardName: Fatty mushrooms_tx
-  pairName: Fatty mushrooms
+  cardName: fatty mushrooms_tx
+  pairName: fatty mushrooms
   cardImage: {fileID: 21300000, guid: 77657e9b90b23984a8ec2099ba69cc14, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a72_Owl
   m_EditorClassIdentifier: 
-  cardName: Owl
-  pairName: Owl_tx
+  cardName: owl
+  pairName: owl_tx
   cardImage: {fileID: 21300000, guid: aeaa539812d7a2f4f853896f91523abd, type: 3}

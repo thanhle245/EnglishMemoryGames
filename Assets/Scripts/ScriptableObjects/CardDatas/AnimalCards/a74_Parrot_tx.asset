@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a74_Parrot_tx
   m_EditorClassIdentifier: 
-  cardName: Parrot_tx
-  pairName: Parrot
+  cardName: parrot_tx
+  pairName: parrot
   cardImage: {fileID: 21300000, guid: 8cd42941db62343469743ce91e7ff0d3, type: 3}

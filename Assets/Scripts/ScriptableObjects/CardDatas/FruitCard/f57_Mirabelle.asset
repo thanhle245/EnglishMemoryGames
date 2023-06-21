@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f57_Mirabelle
   m_EditorClassIdentifier: 
-  cardName: Mirabelle
-  pairName: Mirabelle_tx
+  cardName: mirabelle
+  pairName: mirabelle_tx
   cardImage: {fileID: 21300000, guid: 7958736281f392d4db5341396fd9b0c5, type: 3}

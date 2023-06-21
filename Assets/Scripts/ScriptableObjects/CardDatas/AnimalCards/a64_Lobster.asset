@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a64_Lobster
   m_EditorClassIdentifier: 
-  cardName: Lobster
-  pairName: Lobster_tx
+  cardName: lobster
+  pairName: lobster_tx
   cardImage: {fileID: 21300000, guid: a401072d10b29aa449ed7163a1e0e0d5, type: 3}

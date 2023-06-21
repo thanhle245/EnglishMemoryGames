@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a89_Seagull_tx
   m_EditorClassIdentifier: 
-  cardName: Seagull_tx
-  pairName: Seagull
+  cardName: seagull_tx
+  pairName: seagull
   cardImage: {fileID: 21300000, guid: 3cb14b07ad5e8c84da5f90b9450928fb, type: 3}

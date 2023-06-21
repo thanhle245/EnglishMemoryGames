@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a70_Ostrich
   m_EditorClassIdentifier: 
-  cardName: Ostrich
-  pairName: Ostrich_tx
+  cardName: ostrich
+  pairName: ostrich_tx
   cardImage: {fileID: 21300000, guid: 76f5af2292bd55344a04d044c6692477, type: 3}

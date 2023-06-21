@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f15_Cantaloupe_tx
   m_EditorClassIdentifier: 
-  cardName: Cantaloupe_tx
-  pairName: Cantaloupe
+  cardName: cantaloupe_tx
+  pairName: cantaloupe
   cardImage: {fileID: 21300000, guid: ed801b4903b8286428b3bf7c0955d598, type: 3}

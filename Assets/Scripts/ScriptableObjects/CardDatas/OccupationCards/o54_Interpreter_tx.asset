@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o54_Interpreter_tx
   m_EditorClassIdentifier: 
-  cardName: Interpreter_tx
-  pairName: Interpreter
+  cardName: interpreter_tx
+  pairName: interpreter
   cardImage: {fileID: 21300000, guid: b9a42d3e860d3ff48984c1a53ca25703, type: 3}

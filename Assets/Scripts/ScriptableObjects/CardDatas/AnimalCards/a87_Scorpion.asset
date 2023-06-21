@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a87_Scorpion
   m_EditorClassIdentifier: 
-  cardName: Scorpion
-  pairName: Scorpion_tx
+  cardName: scorpion
+  pairName: scorpion_tx
   cardImage: {fileID: 21300000, guid: 63af4f0c7eb4eaf419fce154ed9d05c9, type: 3}

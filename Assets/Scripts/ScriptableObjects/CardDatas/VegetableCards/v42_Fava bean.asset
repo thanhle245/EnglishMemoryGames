@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v42_Fava bean
   m_EditorClassIdentifier: 
-  cardName: Fava bean
-  pairName: Fava bean_tx
+  cardName: fava bean
+  pairName: fava bean_tx
   cardImage: {fileID: 21300000, guid: fceb9b297f885754488815f24d3f0a19, type: 3}

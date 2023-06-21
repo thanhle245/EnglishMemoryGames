@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f38_Granadilla
   m_EditorClassIdentifier: 
-  cardName: Granadilla
-  pairName: Granadilla_tx
+  cardName: granadilla
+  pairName: granadilla_tx
   cardImage: {fileID: 21300000, guid: c6953ed6a4e3127488622d1e860481b5, type: 3}

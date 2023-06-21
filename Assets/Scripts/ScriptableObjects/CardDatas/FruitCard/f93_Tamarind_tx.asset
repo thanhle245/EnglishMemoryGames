@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f93_Tamarind_tx
   m_EditorClassIdentifier: 
-  cardName: Tamarind_tx
-  pairName: Tamarind
+  cardName: tamarind_tx
+  pairName: tamarind
   cardImage: {fileID: 21300000, guid: 364b9d6e407b1c644920fd836f587662, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f99_White currant
   m_EditorClassIdentifier: 
-  cardName: White currant
-  pairName: White currant_tx
+  cardName: white currant
+  pairName: white currant_tx
   cardImage: {fileID: 21300000, guid: ca28bc5ac68e13447a395d3100f8975f, type: 3}

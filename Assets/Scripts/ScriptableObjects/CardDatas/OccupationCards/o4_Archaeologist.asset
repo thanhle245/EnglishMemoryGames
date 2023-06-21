@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o4_Archaeologist
   m_EditorClassIdentifier: 
-  cardName: Archaeologist
-  pairName: Archaeologist_tx
+  cardName: archaeologist
+  pairName: archaeologist_tx
   cardImage: {fileID: 21300000, guid: ed2f3ec0159f960458059a1504b1cbac, type: 3}

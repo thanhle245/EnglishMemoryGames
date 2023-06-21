@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v5_Anise
   m_EditorClassIdentifier: 
-  cardName: Anise
-  pairName: Anise_tx
+  cardName: anise
+  pairName: anise_tx
   cardImage: {fileID: 21300000, guid: 70031efbe8332a54382f7ce722d29650, type: 3}

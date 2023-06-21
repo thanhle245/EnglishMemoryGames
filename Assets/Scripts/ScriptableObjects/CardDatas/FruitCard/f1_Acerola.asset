@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f1_Acerola
   m_EditorClassIdentifier: 
-  cardName: Acerola
-  pairName: Acerola_tx
+  cardName: acerola
+  pairName: acerola_tx
   cardImage: {fileID: 21300000, guid: 12d23326e6bacdb46a3e7fc43a8b3c2d, type: 3}

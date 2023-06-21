@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f40_Green beans
   m_EditorClassIdentifier: 
-  cardName: Green beans
-  pairName: Green beans_tx
+  cardName: green beans
+  pairName: green beans_tx
   cardImage: {fileID: 21300000, guid: a1f98fdad671f09439532a47eb94240d, type: 3}

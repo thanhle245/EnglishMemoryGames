@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a47_Giraffe
   m_EditorClassIdentifier: 
-  cardName: Giraffe
-  pairName: Giraffe_tx
+  cardName: giraffe
+  pairName: giraffe_tx
   cardImage: {fileID: 21300000, guid: f640e2962d5d17143a0a4da2eaa734e7, type: 3}

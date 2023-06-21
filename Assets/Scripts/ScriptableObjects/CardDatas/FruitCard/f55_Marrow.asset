@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f55_Marrow
   m_EditorClassIdentifier: 
-  cardName: Marrow
-  pairName: Marrow_tx
+  cardName: marrow
+  pairName: marrow_tx
   cardImage: {fileID: 21300000, guid: 626a89b65a6ef504fb9602cd4c66c5b3, type: 3}

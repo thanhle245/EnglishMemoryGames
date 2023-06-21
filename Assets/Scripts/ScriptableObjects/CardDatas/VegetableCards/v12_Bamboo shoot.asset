@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v12_Bamboo shoot
   m_EditorClassIdentifier: 
-  cardName: Bamboo shoot
-  pairName: Bamboo shoot_tx
+  cardName: bamboo shoot
+  pairName: bamboo shoot_tx
   cardImage: {fileID: 21300000, guid: d656fb5a7f6f9834182316f44d546181, type: 3}

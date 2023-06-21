@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o67_Mechanic_tx
   m_EditorClassIdentifier: 
-  cardName: Mechanic_tx
-  pairName: Mechanic
+  cardName: mechanic_tx
+  pairName: mechanic
   cardImage: {fileID: 21300000, guid: d9946e6a027e79943a763b1ed0b59baf, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v94_Swiss chard
   m_EditorClassIdentifier: 
-  cardName: Swiss chard
-  pairName: Swiss chard_tx
+  cardName: swiss chard
+  pairName: swiss chard_tx
   cardImage: {fileID: 21300000, guid: ecc19c49ee794754ea9c541fc92efc9d, type: 3}

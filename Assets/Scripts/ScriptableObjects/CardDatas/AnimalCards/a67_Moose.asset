@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a67_Moose
   m_EditorClassIdentifier: 
-  cardName: Moose
-  pairName: Moose_tx
+  cardName: moose
+  pairName: moose_tx
   cardImage: {fileID: 21300000, guid: 589468b41c9537741a8d8f395aa6a5eb, type: 3}

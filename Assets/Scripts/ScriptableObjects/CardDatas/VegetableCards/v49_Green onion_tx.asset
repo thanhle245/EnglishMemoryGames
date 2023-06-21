@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v49_Green onion_tx
   m_EditorClassIdentifier: 
-  cardName: Green onion_tx
-  pairName: Green onion
+  cardName: green onion_tx
+  pairName: green onion
   cardImage: {fileID: 21300000, guid: 9fde50ce37b306b419a8632d7b1109c4, type: 3}

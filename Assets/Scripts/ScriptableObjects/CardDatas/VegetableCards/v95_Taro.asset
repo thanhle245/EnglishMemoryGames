@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v95_Taro
   m_EditorClassIdentifier: 
-  cardName: Taro
-  pairName: Taro_tx
+  cardName: taro
+  pairName: taro_tx
   cardImage: {fileID: 21300000, guid: 33c11c9b338b1234b99e4b1cbb70a741, type: 3}

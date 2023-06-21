@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f51_Longan
   m_EditorClassIdentifier: 
-  cardName: Longan
-  pairName: Longan_tx
+  cardName: longan
+  pairName: longan_tx
   cardImage: {fileID: 21300000, guid: 247eef3d7e3d2d14e87337bc5e1b4ce3, type: 3}

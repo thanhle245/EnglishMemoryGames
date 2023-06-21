@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v23_Cabbage
   m_EditorClassIdentifier: 
-  cardName: Cabbage
-  pairName: Cabbage_tx
+  cardName: cabbage
+  pairName: cabbage_tx
   cardImage: {fileID: 21300000, guid: b3578cef322ce634d9a6d91a9886c770, type: 3}

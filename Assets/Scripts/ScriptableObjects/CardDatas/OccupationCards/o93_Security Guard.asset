@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o93_Security Guard
   m_EditorClassIdentifier: 
-  cardName: Security Guard
-  pairName: Security Guard_tx
+  cardName: security guard
+  pairName: security guard_tx
   cardImage: {fileID: 21300000, guid: 7ebe2310a97730a45a6d848b1bc727c9, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f28_Custard-apple
   m_EditorClassIdentifier: 
-  cardName: Custard-apple
-  pairName: Custard-apple_tx
+  cardName: custard-apple
+  pairName: custard-apple_tx
   cardImage: {fileID: 21300000, guid: bdf767e30c6a8bb42a7afe4ddd84c4b4, type: 3}

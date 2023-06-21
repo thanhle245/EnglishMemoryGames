@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o95_Singer_tx
   m_EditorClassIdentifier: 
-  cardName: Singer_tx
-  pairName: Singer
+  cardName: singer_tx
+  pairName: singer
   cardImage: {fileID: 21300000, guid: 26857a2cbff7d5249859d3747c071b5e, type: 3}

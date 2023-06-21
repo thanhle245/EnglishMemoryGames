@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o26_Composer_tx
   m_EditorClassIdentifier: 
-  cardName: Composer_tx
-  pairName: Composer
+  cardName: composer_tx
+  pairName: composer
   cardImage: {fileID: 21300000, guid: ba9246d5d7787bd479e1c1dae818b975, type: 3}

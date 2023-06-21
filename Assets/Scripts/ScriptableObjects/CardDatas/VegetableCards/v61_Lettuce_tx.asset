@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v61_Lettuce_tx
   m_EditorClassIdentifier: 
-  cardName: Lettuce_tx
-  pairName: Lettuce
+  cardName: lettuce_tx
+  pairName: lettuce
   cardImage: {fileID: 21300000, guid: f05f137981a3e95459fdfe6072fda8c4, type: 3}

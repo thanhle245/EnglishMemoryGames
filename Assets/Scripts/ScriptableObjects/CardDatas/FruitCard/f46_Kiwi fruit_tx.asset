@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f46_Kiwi fruit_tx
   m_EditorClassIdentifier: 
-  cardName: Kiwi fruit_tx
-  pairName: Kiwi fruit
+  cardName: kiwi fruit_tx
+  pairName: kiwi fruit
   cardImage: {fileID: 21300000, guid: 978010254d9a9af45aa06b8ad524bee2, type: 3}

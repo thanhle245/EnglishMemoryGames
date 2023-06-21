@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a39_Eagle_tx
   m_EditorClassIdentifier: 
-  cardName: Eagle_tx
-  pairName: Eagle
+  cardName: eagle_tx
+  pairName: eagle
   cardImage: {fileID: 21300000, guid: cb16221bda2291340af312ae097dc6b6, type: 3}

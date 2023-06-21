@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o50_Graphic Designer
   m_EditorClassIdentifier: 
-  cardName: Graphic Designer
-  pairName: Graphic Designer_tx
+  cardName: graphic designer
+  pairName: graphic designer_tx
   cardImage: {fileID: 21300000, guid: 035c1e4a4f4cc404db0f8bb2cc2042d5, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v46_Ginger
   m_EditorClassIdentifier: 
-  cardName: Ginger
-  pairName: Ginger_tx
+  cardName: ginger
+  pairName: ginger_tx
   cardImage: {fileID: 21300000, guid: c907d21c82a2c7d40aa085d64d89edcc, type: 3}

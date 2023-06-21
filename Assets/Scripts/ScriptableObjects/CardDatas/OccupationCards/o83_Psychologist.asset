@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o83_Psychologist
   m_EditorClassIdentifier: 
-  cardName: Psychologist
-  pairName: Psychologist_tx
+  cardName: psychologist
+  pairName: psychologist_tx
   cardImage: {fileID: 21300000, guid: 657073c5ad64c6244bacf6542134c184, type: 3}

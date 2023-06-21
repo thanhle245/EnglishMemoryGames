@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a30_Crow_tx
   m_EditorClassIdentifier: 
-  cardName: Crow_tx
-  pairName: Crow
+  cardName: crow_tx
+  pairName: crow
   cardImage: {fileID: 21300000, guid: 5443e842e51230f47ba5f970f125f10d, type: 3}

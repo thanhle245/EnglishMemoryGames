@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f64_Passion-fruit_tx
   m_EditorClassIdentifier: 
-  cardName: Passion-fruit_tx
-  pairName: Passion-fruit
+  cardName: passion-fruit_tx
+  pairName: passion-fruit
   cardImage: {fileID: 21300000, guid: 199b58611ff4dd9458cc8281ed51ab75, type: 3}

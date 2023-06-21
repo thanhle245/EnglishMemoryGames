@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a97_Squid_tx
   m_EditorClassIdentifier: 
-  cardName: Squid_tx
-  pairName: Squid
+  cardName: squid_tx
+  pairName: squid
   cardImage: {fileID: 21300000, guid: fe26f5f8edde19c49b62440a6db51fa7, type: 3}

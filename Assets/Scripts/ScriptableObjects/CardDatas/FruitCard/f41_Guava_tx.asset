@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f41_Guava_tx
   m_EditorClassIdentifier: 
-  cardName: Guava_tx
-  pairName: Guava
+  cardName: guava_tx
+  pairName: guava
   cardImage: {fileID: 21300000, guid: a9afcc505edbfd740ba945e4202b9dd1, type: 3}

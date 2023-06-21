@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f69_Pineapple
   m_EditorClassIdentifier: 
-  cardName: Pineapple
-  pairName: Pineapple_tx
+  cardName: pineapple
+  pairName: pineapple_tx
   cardImage: {fileID: 21300000, guid: 6a78a0ff4c21a3441bdb88275ec97201, type: 3}

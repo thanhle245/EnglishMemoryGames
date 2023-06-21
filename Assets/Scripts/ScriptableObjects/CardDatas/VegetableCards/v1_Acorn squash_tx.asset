@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v1_Acorn squash_tx
   m_EditorClassIdentifier: 
-  cardName: Acorn squash_tx
-  pairName: Acorn squash
+  cardName: acorn squash_tx
+  pairName: acorn squash
   cardImage: {fileID: 21300000, guid: 2c045eeec514ea042ac32fa2d1b19fa4, type: 3}

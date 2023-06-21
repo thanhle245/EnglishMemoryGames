@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v72_Pansies
   m_EditorClassIdentifier: 
-  cardName: Pansies
-  pairName: Pansies_tx
+  cardName: pansies
+  pairName: pansies_tx
   cardImage: {fileID: 21300000, guid: 7fc37efc84ee1764789add79f6b0d9f4, type: 3}

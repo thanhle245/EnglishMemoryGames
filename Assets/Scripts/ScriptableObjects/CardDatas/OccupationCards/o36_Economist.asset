@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o36_Economist
   m_EditorClassIdentifier: 
-  cardName: Economist
-  pairName: Economist_tx
+  cardName: economist
+  pairName: economist_tx
   cardImage: {fileID: 21300000, guid: c39e0de51a139d446b3373d8e96f3a9b, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f30_Dragon fruit_tx
   m_EditorClassIdentifier: 
-  cardName: Dragon fruit_tx
-  pairName: Dragon fruit
+  cardName: dragon fruit_tx
+  pairName: dragon fruit
   cardImage: {fileID: 21300000, guid: 75381c927e64f0d41a4cb4b10c3a0eac, type: 3}

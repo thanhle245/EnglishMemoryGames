@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a49_Grasshopper
   m_EditorClassIdentifier: 
-  cardName: Grasshopper
-  pairName: Grasshopper_tx
+  cardName: grasshopper
+  pairName: grasshopper_tx
   cardImage: {fileID: 21300000, guid: ec77349e6c6e188469d263b878bb8e4e, type: 3}

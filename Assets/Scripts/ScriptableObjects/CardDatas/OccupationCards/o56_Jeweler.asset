@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o56_Jeweler
   m_EditorClassIdentifier: 
-  cardName: Jeweler
-  pairName: Jeweler_tx
+  cardName: jeweler
+  pairName: jeweler_tx
   cardImage: {fileID: 21300000, guid: b1cc27e187c232a4fb4dbe4bf1e460b4, type: 3}

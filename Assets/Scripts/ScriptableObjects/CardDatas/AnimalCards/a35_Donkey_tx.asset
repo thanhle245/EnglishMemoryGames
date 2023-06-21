@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a35_Donkey_tx
   m_EditorClassIdentifier: 
-  cardName: Donkey_tx
-  pairName: Donkey
+  cardName: donkey_tx
+  pairName: donkey
   cardImage: {fileID: 21300000, guid: b1b6b796c7a67a942b1c6b09d101387e, type: 3}

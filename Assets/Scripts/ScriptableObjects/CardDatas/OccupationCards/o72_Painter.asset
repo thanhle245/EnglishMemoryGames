@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o72_Painter
   m_EditorClassIdentifier: 
-  cardName: 'Painter '
-  pairName: Painter_tx
+  cardName: 'painter '
+  pairName: painter_tx
   cardImage: {fileID: 21300000, guid: d8291acc4df9f7541b84e12f44521aa6, type: 3}

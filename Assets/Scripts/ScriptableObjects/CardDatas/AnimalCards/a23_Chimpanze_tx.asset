@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a23_Chimpanze_tx
   m_EditorClassIdentifier: 
-  cardName: Chimpanze_tx
-  pairName: Chimpanze
+  cardName: chimpanze_tx
+  pairName: chimpanze
   cardImage: {fileID: 21300000, guid: b5d82cea7f69a9046a706d85e0489a8a, type: 3}

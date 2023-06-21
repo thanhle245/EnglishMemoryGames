@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v13_Banana flower
   m_EditorClassIdentifier: 
-  cardName: Banana flower
-  pairName: Banana flower_tx
+  cardName: banana flower
+  pairName: banana flower_tx
   cardImage: {fileID: 21300000, guid: c3e03c2c34f4984418a53d403b31c714, type: 3}

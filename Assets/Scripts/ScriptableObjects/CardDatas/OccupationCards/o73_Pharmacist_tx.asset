@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o73_Pharmacist_tx
   m_EditorClassIdentifier: 
-  cardName: Pharmacist_tx
-  pairName: Pharmacist
+  cardName: pharmacist_tx
+  pairName: pharmacist
   cardImage: {fileID: 0}

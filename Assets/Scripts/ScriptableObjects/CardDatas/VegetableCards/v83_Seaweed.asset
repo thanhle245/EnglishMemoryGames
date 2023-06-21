@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v83_Seaweed
   m_EditorClassIdentifier: 
-  cardName: Seaweed
-  pairName: Seaweed_tx
+  cardName: seaweed
+  pairName: seaweed_tx
   cardImage: {fileID: 21300000, guid: 5dd428ed740e6f64181fe1f795fae43e, type: 3}

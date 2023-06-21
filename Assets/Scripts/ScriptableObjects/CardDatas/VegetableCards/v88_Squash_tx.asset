@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v88_Squash_tx
   m_EditorClassIdentifier: 
-  cardName: Squash_tx
-  pairName: Squash
+  cardName: squash_tx
+  pairName: squash
   cardImage: {fileID: 21300000, guid: d052a273789ff6846b148fa5efe26a6e, type: 3}

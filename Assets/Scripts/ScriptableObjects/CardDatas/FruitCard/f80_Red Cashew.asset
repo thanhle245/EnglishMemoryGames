@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f80_Red Cashew
   m_EditorClassIdentifier: 
-  cardName: Red Cashew
-  pairName: Red Cashew_tx
+  cardName: red cashew
+  pairName: red ccashew_tx
   cardImage: {fileID: 21300000, guid: 7130e959625287b429be10c71d724fa6, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a77_Pig
   m_EditorClassIdentifier: 
-  cardName: Pig
-  pairName: Pig_tx
+  cardName: pig
+  pairName: pig_tx
   cardImage: {fileID: 21300000, guid: 9f94da5ca27ed23438de52ed2b821f20, type: 3}

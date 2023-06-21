@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f50_Lime
   m_EditorClassIdentifier: 
-  cardName: Lime
-  pairName: Lime_tx
+  cardName: lime
+  pairName: lime_tx
   cardImage: {fileID: 21300000, guid: 5fb56c813bcdd594c947af663b6a2122, type: 3}

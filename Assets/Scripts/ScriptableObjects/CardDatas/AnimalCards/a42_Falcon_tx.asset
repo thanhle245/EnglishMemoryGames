@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a42_Falcon_tx
   m_EditorClassIdentifier: 
-  cardName: Falcon_tx
-  pairName: Falcon
+  cardName: falcon_tx
+  pairName: falcon
   cardImage: {fileID: 21300000, guid: b73063874a3be7a4fb72af52fc4cd17f, type: 3}

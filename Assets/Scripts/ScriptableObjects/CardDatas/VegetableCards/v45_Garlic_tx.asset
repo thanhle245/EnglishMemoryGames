@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v45_Garlic_tx
   m_EditorClassIdentifier: 
-  cardName: Garlic_tx
-  pairName: Garlic
+  cardName: garlic_tx
+  pairName: garlic
   cardImage: {fileID: 21300000, guid: 788a10be00ab1e7439571d774c02bfaa, type: 3}

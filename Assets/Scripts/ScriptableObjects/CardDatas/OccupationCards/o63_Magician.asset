@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o63_Magician
   m_EditorClassIdentifier: 
-  cardName: Magician
-  pairName: Magician_tx
+  cardName: magician
+  pairName: magician_tx
   cardImage: {fileID: 21300000, guid: 9dff8d4964a8c824eb93a2b22b5584f0, type: 3}

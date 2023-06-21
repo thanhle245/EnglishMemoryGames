@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o68_Miner
   m_EditorClassIdentifier: 
-  cardName: Miner
-  pairName: Miner_tx
+  cardName: miner
+  pairName: miner_tx
   cardImage: {fileID: 21300000, guid: 5cc0619faaffead4aac166c207fae767, type: 3}

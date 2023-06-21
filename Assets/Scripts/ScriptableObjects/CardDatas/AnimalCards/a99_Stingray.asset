@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a99_Stingray
   m_EditorClassIdentifier: 
-  cardName: Stingray
-  pairName: Stingray_tx
+  cardName: stingray
+  pairName: stingray_tx
   cardImage: {fileID: 21300000, guid: 709c711676f60e142bfeccdde474f9f3, type: 3}

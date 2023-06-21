@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a75_Peacock_tx
   m_EditorClassIdentifier: 
-  cardName: Peacock_tx
-  pairName: Peacock
+  cardName: peacock_tx
+  pairName: peacock
   cardImage: {fileID: 21300000, guid: d12bdae6882be954ba3bea598af92c20, type: 3}

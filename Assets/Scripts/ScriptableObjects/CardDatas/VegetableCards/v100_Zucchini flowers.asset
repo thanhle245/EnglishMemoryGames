@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v100_Zucchini flowers
   m_EditorClassIdentifier: 
-  cardName: Zucchini flowers
-  pairName: Zucchini flowers_tx
+  cardName: zucchini flowers
+  pairName: zucchini flowers_tx
   cardImage: {fileID: 21300000, guid: ab9e974f0af98c340b75b7986d8de647, type: 3}

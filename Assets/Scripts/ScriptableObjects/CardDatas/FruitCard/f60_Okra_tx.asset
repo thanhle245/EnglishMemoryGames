@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f60_Okra_tx
   m_EditorClassIdentifier: 
-  cardName: Okra_tx
-  pairName: Okra
+  cardName: okra_tx
+  pairName: okra
   cardImage: {fileID: 21300000, guid: 8c3b5ae1ac71fc54881874a9a613c5fa, type: 3}

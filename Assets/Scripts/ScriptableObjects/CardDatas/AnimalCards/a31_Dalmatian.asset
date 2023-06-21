@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a31_Dalmatian
   m_EditorClassIdentifier: 
-  cardName: Dalmatian
-  pairName: Dalmatian_tx
+  cardName: dalmatian
+  pairName: dalmatian_tx
   cardImage: {fileID: 21300000, guid: a201e7a0df9698044b4202af82521aa2, type: 3}

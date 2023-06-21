@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v97_Turmeric
   m_EditorClassIdentifier: 
-  cardName: Turmeric
-  pairName: Turmeric_tx
+  cardName: turmeric
+  pairName: turmeric_tx
   cardImage: {fileID: 21300000, guid: 4e5b248f414028c47ad9438063473774, type: 3}

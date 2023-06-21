@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a80_Polar bear_tx
   m_EditorClassIdentifier: 
-  cardName: Polar bear_tx
-  pairName: Polar bear
+  cardName: polar bear_tx
+  pairName: polar bear
   cardImage: {fileID: 21300000, guid: f1ffb36cd2f7f884490041cf52f2a45c, type: 3}

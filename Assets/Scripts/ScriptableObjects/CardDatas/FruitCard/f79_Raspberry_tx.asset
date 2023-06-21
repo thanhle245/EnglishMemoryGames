@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f79_Raspberry_tx
   m_EditorClassIdentifier: 
-  cardName: Raspberry_tx
-  pairName: Raspberry
+  cardName: raspberry_tx
+  pairName: raspberry
   cardImage: {fileID: 21300000, guid: c556b7341db9a4e4da2110cfbf4a024a, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f53_Mango
   m_EditorClassIdentifier: 
-  cardName: Mango
-  pairName: Mango_tx
+  cardName: mango
+  pairName: mango_tx
   cardImage: {fileID: 21300000, guid: fb516ccd65f15cb439a5193d0c72fa08, type: 3}

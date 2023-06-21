@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o24_Chef
   m_EditorClassIdentifier: 
-  cardName: Chef
-  pairName: Chef_tx
+  cardName: chef
+  pairName: chef_tx
   cardImage: {fileID: 21300000, guid: 3df3f3efce53f9243b9aebf0b0b7bc4b, type: 3}

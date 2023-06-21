@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o65_Mailman
   m_EditorClassIdentifier: 
-  cardName: Mailman
-  pairName: Mailman_tx
+  cardName: mailman
+  pairName: mailman_tx
   cardImage: {fileID: 21300000, guid: 201d527d89419144b8a73c89175e3dea, type: 3}

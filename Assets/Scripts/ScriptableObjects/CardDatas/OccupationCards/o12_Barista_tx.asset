@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o12_Barista_tx
   m_EditorClassIdentifier: 
-  cardName: Barista_tx
-  pairName: Barista
+  cardName: barista_tx
+  pairName: barista
   cardImage: {fileID: 21300000, guid: 7d307235628b66f45bd735a1b5495faf, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a73_Panda
   m_EditorClassIdentifier: 
-  cardName: Panda
-  pairName: Panda_tx
+  cardName: panda
+  pairName: panda_tx
   cardImage: {fileID: 21300000, guid: b48b05b4b8b752646a82664d49aec01c, type: 3}

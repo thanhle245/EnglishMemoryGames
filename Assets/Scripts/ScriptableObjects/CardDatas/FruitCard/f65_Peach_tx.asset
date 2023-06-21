@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f65_Peach_tx
   m_EditorClassIdentifier: 
-  cardName: Peach_tx
-  pairName: Peach
+  cardName: peach_tx
+  pairName: peach
   cardImage: {fileID: 21300000, guid: 167c9374e1cdccf4da4a50d4a139ad9c, type: 3}

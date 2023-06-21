@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f84_Sea buckthorn
   m_EditorClassIdentifier: 
-  cardName: Sea buckthorn
-  pairName: Sea buckthorn_tx
+  cardName: sea buckthorn
+  pairName: sea buckthorn_tx
   cardImage: {fileID: 21300000, guid: 2b6604d8c386a7546a0b0309a52c37e6, type: 3}

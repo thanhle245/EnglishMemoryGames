@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f54_Mangosteen_tx
   m_EditorClassIdentifier: 
-  cardName: Mangosteen_tx
-  pairName: Mangosteen
+  cardName: mangosteen_tx
+  pairName: mangosteen
   cardImage: {fileID: 21300000, guid: 216476be220903d42acd63fa7fbec048, type: 3}

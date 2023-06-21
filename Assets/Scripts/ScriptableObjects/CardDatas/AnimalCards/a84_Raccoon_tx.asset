@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a84_Raccoon_tx
   m_EditorClassIdentifier: 
-  cardName: Raccoon_tx
-  pairName: Raccoon
+  cardName: raccoon_tx
+  pairName: raccoon
   cardImage: {fileID: 21300000, guid: f06a2d808c1503c48957c81b293348da, type: 3}

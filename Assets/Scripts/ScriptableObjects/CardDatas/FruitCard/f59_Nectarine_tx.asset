@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f59_Nectarine_tx
   m_EditorClassIdentifier: 
-  cardName: Nectarine_tx
-  pairName: Nectarine
+  cardName: nectarine_tx
+  pairName: nectarine
   cardImage: {fileID: 21300000, guid: d82aeef448ecc3440ba455e1e0f0c2d8, type: 3}

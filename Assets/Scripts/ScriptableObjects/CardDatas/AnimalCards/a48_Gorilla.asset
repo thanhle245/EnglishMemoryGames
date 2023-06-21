@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a48_Gorilla
   m_EditorClassIdentifier: 
-  cardName: Gorilla
-  pairName: Gorilla_tx
+  cardName: gorilla
+  pairName: gorilla_tx
   cardImage: {fileID: 21300000, guid: 0550f8733f164424393df25a62e0798e, type: 3}

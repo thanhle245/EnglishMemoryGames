@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o46_Flight Attendant
   m_EditorClassIdentifier: 
-  cardName: Flight Attendant
-  pairName: Flight Attendant_tx
+  cardName: flight attendant
+  pairName: flight attendant_tx
   cardImage: {fileID: 21300000, guid: e047cae8700b3944783a688483fec0b5, type: 3}

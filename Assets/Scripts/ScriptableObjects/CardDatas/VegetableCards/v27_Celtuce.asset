@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v27_Celtuce
   m_EditorClassIdentifier: 
-  cardName: Celtuce
-  pairName: Celtuce_tx
+  cardName: celtuce
+  pairName: celtuce_tx
   cardImage: {fileID: 21300000, guid: 77eca88f1320f80428364b9c23321d0e, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v20_Broccoli
   m_EditorClassIdentifier: 
-  cardName: Broccoli
-  pairName: Broccoli_tx
+  cardName: broccoli
+  pairName: broccoli_tx
   cardImage: {fileID: 21300000, guid: f65b897ba25bea6428ca20c45177304d, type: 3}

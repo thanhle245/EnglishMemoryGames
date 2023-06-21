@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a46_Gecko_tx
   m_EditorClassIdentifier: 
-  cardName: Gecko_tx
-  pairName: Gecko
+  cardName: gecko_tx
+  pairName: gecko
   cardImage: {fileID: 21300000, guid: 15883106bd3fb104997f47837601bfb4, type: 3}

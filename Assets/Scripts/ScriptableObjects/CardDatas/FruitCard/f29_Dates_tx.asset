@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f29_Dates_tx
   m_EditorClassIdentifier: 
-  cardName: Dates_tx
-  pairName: Dates
+  cardName: dates_tx
+  pairName: dates
   cardImage: {fileID: 21300000, guid: aa9c72962e572f1438a46356eaf63503, type: 3}

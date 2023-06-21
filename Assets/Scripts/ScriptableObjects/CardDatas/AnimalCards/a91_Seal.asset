@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a91_Seal
   m_EditorClassIdentifier: 
-  cardName: Seal
-  pairName: Seal_tx
+  cardName: seal
+  pairName: seal_tx
   cardImage: {fileID: 21300000, guid: bef5bef2f6c401645ba9b8dd44359d21, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f56_Medlar_tx
   m_EditorClassIdentifier: 
-  cardName: Medlar_tx
-  pairName: Medlar
+  cardName: medlar_tx
+  pairName: medlar
   cardImage: {fileID: 21300000, guid: 1efdc72e16776324d951f18e66239a20, type: 3}

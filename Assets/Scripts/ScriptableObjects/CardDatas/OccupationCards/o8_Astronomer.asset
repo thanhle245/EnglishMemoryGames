@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o8_Astronomer
   m_EditorClassIdentifier: 
-  cardName: Astronomer
-  pairName: Astronomer_tx
+  cardName: astronomer
+  pairName: astronomer_tx
   cardImage: {fileID: 21300000, guid: 707d233c615e7494eba1b9124f44ac1d, type: 3}

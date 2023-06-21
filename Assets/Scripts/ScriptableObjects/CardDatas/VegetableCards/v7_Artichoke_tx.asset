@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v7_Artichoke_tx
   m_EditorClassIdentifier: 
-  cardName: Artichoke_tx
-  pairName: Artichoke
+  cardName: artichoke_tx
+  pairName: artichoke
   cardImage: {fileID: 21300000, guid: e2351079e5e8c344eb4b21b9ed4ae8f4, type: 3}

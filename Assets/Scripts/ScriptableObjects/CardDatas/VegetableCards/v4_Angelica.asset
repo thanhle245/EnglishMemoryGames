@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v4_Angelica
   m_EditorClassIdentifier: 
-  cardName: Angelica
-  pairName: Angelica_tx
+  cardName: angelica
+  pairName: angelica_tx
   cardImage: {fileID: 21300000, guid: ef6808a4d3c9b5f4aaa4b95f55880ecf, type: 3}

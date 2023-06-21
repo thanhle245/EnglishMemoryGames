@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v11_Avocado
   m_EditorClassIdentifier: 
-  cardName: Avocado
-  pairName: Avocado_tx
+  cardName: avocado
+  pairName: avocado_tx
   cardImage: {fileID: 21300000, guid: ec1c58ee161f57f409bdf02a7820c557, type: 3}

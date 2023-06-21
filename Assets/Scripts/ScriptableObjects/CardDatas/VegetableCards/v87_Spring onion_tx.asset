@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v87_Spring onion_tx
   m_EditorClassIdentifier: 
-  cardName: Spring onion_tx
-  pairName: Spring onion
+  cardName: spring onion_tx
+  pairName: spring onion
   cardImage: {fileID: 21300000, guid: 22a179ef6b788b5489bfa66b68dd8690, type: 3}

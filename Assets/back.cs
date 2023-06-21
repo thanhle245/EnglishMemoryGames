@@ -13,6 +13,6 @@ public class back : MonoBehaviour
     // Update is called once per frame
     public void Back()
     {
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex - 1);
+        SceneManager.LoadScene("CategorySelect");
     }
 }

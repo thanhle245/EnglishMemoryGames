@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f26_Cucumber
   m_EditorClassIdentifier: 
-  cardName: Cucumber
-  pairName: Cucumber_tx
+  cardName: cucumber
+  pairName: cucumber_tx
   cardImage: {fileID: 21300000, guid: 036daf2f9b82ac64ca33cb4f9a706ecd, type: 3}

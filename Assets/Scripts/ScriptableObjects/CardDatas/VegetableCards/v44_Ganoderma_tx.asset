@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v44_Ganoderma_tx
   m_EditorClassIdentifier: 
-  cardName: Ganoderma_tx
-  pairName: Ganoderma
+  cardName: ganoderma_tx
+  pairName: ganoderma
   cardImage: {fileID: 21300000, guid: 538d354cb5f139c4fa557b48cd8c3ff5, type: 3}

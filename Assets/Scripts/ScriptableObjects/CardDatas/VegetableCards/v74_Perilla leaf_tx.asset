@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v74_Perilla leaf_tx
   m_EditorClassIdentifier: 
-  cardName: Perilla leaf_tx
-  pairName: Perilla leaf
+  cardName: perilla leaf_tx
+  pairName: perilla leaf
   cardImage: {fileID: 21300000, guid: c0c6a8c0891082542bf2cfe0d4bec029, type: 3}

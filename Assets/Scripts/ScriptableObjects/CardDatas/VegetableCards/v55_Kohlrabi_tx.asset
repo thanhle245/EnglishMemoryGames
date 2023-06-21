@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v55_Kohlrabi_tx
   m_EditorClassIdentifier: 
-  cardName: Kohlrabi_tx
-  pairName: Kohlrabi
+  cardName: kohlrabi_tx
+  pairName: kohlrabi
   cardImage: {fileID: 21300000, guid: 48bbd6567f77f664b85d58ed26712994, type: 3}

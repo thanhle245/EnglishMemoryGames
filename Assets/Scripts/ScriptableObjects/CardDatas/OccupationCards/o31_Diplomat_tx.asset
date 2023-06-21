@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o31_Diplomat_tx
   m_EditorClassIdentifier: 
-  cardName: Diplomat_tx
-  pairName: Diplomat
+  cardName: diplomat_tx
+  pairName: diplomat
   cardImage: {fileID: 21300000, guid: c4446ef54aeaeac4084c95591c46328e, type: 3}

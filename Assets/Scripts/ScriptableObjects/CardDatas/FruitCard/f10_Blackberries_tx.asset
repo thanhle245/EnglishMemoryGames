@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f10_Blackberries_tx
   m_EditorClassIdentifier: 
-  cardName: Blackberries_tx
-  pairName: Blackberries
+  cardName: blackberries_tx
+  pairName: blackberries
   cardImage: {fileID: 21300000, guid: 387c0356c6b62b34d9bb37b049237655, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a100_Wolf_tx
   m_EditorClassIdentifier: 
-  cardName: Wolf_tx
-  pairName: Wolf
+  cardName: wolf_tx
+  pairName: wolf
   cardImage: {fileID: 21300000, guid: ab1da0cf3edd42b4ba547df3f64824de, type: 3}

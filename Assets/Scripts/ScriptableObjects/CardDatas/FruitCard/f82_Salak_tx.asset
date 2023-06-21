@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f82_Salak_tx
   m_EditorClassIdentifier: 
-  cardName: Salak_tx
-  pairName: Salak
+  cardName: salak_tx
+  pairName: salak
   cardImage: {fileID: 21300000, guid: ca2231eb760970d4cbc1897c25bbde3a, type: 3}

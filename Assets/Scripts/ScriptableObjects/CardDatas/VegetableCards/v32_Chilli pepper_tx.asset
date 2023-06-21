@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v32_Chilli pepper_tx
   m_EditorClassIdentifier: 
-  cardName: Chilli pepper_tx
-  pairName: Chilli pepper
+  cardName: chilli pepper_tx
+  pairName: chilli pepper
   cardImage: {fileID: 21300000, guid: c3cccd751cbacde48a367ecbd5fe4218, type: 3}

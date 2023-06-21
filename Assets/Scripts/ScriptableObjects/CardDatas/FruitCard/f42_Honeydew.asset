@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f42_Honeydew
   m_EditorClassIdentifier: 
-  cardName: Honeydew
-  pairName: Honeydew_tx
+  cardName: honeydew
+  pairName: honeydew_tx
   cardImage: {fileID: 21300000, guid: bc38fc0fdab010a4381334be471caee7, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a68_Mouse
   m_EditorClassIdentifier: 
-  cardName: Mouse
-  pairName: Mouse_tx
+  cardName: mouse
+  pairName: mouse_tx
   cardImage: {fileID: 21300000, guid: 76bbf6ed2d918d84997efcaa0daf5f9a, type: 3}

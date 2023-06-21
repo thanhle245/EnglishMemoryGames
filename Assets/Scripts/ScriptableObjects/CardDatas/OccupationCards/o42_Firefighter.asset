@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: o42_Firefighter
   m_EditorClassIdentifier: 
-  cardName: Firefighter
-  pairName: Firefighter_tx
+  cardName: firefighter
+  pairName: firefighter_tx
   cardImage: {fileID: 21300000, guid: 8363f11ccd8d38c49a081bd0fa10bbce, type: 3}

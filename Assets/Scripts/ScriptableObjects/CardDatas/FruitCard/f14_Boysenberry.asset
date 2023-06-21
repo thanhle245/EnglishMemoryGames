@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f14_Boysenberry
   m_EditorClassIdentifier: 
-  cardName: Boysenberry
-  pairName: Boysenberry_tx
+  cardName: boysenberry
+  pairName: boysenberry_tx
   cardImage: {fileID: 21300000, guid: 11b2273bda1c29f46ae3008a76059850, type: 3}

@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: v93_Sweet potato_tx
   m_EditorClassIdentifier: 
-  cardName: Sweet potato_tx
-  pairName: Sweet potato
+  cardName: sweet potato_tx
+  pairName: sweet potato
   cardImage: {fileID: 21300000, guid: 833a4d645af254d40956b367de6c8491, type: 3}

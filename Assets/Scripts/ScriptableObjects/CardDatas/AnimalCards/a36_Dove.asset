@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a36_Dove
   m_EditorClassIdentifier: 
-  cardName: Dove
-  pairName: Dove_tx
+  cardName: dove
+  pairName: dove_tx
   cardImage: {fileID: 21300000, guid: d6321645eb5df8b498e8d5512073c469, type: 3}

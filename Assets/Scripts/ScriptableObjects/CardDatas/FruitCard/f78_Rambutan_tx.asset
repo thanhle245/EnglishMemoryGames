@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f78_Rambutan_tx
   m_EditorClassIdentifier: 
-  cardName: Rambutan_tx
-  pairName: Rambutan
+  cardName: rambutan_tx
+  pairName: rambutan
   cardImage: {fileID: 21300000, guid: c5ef3b6b85653304c872daeba8df8325, type: 3}
