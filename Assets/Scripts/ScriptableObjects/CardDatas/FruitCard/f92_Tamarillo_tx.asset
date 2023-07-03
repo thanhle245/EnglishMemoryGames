@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: f92_Tamarillo_tx
   m_EditorClassIdentifier: 
-  cardName: Tamarillo_tx
-  pairName: Tamarillo
+  cardName: tamarillo_tx
+  pairName: tamarillo
   cardImage: {fileID: 21300000, guid: 4a4fa786657589e4fabb226735bb71df, type: 3}

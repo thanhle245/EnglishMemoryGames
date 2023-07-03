@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 0d2280fa3456644498d93264defa0fdc, type: 3}
   m_Name: a59_Killer Whale_tx
   m_EditorClassIdentifier: 
-  cardName: killer Whale_tx
-  pairName: killer Whale
+  cardName: killer whale_tx
+  pairName: killer whale
   cardImage: {fileID: 21300000, guid: 534ac60f6bd43064ea86ada516b387da, type: 3}

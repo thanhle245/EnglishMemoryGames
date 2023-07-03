@@ -2466,7 +2466,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Padding:
-    m_Left: 160
+    m_Left: 159
     m_Right: 0
     m_Top: 175
     m_Bottom: 175
@@ -2493,7 +2493,7 @@ MonoBehaviour:
   cardCollection: {fileID: 11400000, guid: 0b1baeb4923479945baf1841960b87b0, type: 2}
   easyData: {fileID: 11400000, guid: a94e50e111f67b147978ded77c5d7174, type: 2}
   normalData: {fileID: 11400000, guid: a94e50e111f67b147978ded77c5d7174, type: 2}
-  hardData: {fileID: 11400000, guid: 447b0226ca2269948810d8cfd7fbc604, type: 2}
+  hardData: {fileID: 11400000, guid: a94e50e111f67b147978ded77c5d7174, type: 2}
 --- !u!1 &1363107865
 GameObject:
   m_ObjectHideFlags: 0
